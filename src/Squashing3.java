@@ -29,7 +29,7 @@ public class Squashing3 {
     System.out.println(s1);
     System.out.println(s4);
     System.out.println(s5);
-
+//comment in squashing3
 
   }
 
