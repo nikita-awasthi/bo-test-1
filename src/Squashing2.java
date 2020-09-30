@@ -12,7 +12,7 @@ public class Squashing2 {
     this.string1 = string1;
     this.string2 = string2;
   }
-
+//
   @Override
   public boolean equals(Object o) {
     if (this == o) {
