@@ -25,7 +25,7 @@ public class Squashing2 {
     return Objects.equals(string1, that.string1) &&
         Objects.equals(string2, that.string2);
   }
-
+//
   @Override
   public int hashCode() {
     return Objects.hash(string1, string2);
