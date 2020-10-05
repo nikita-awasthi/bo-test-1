@@ -5,6 +5,7 @@ public class Squashing1 {
     System.out.println(s);
   }
 //comment
+  //comment
   @Override
   public boolean equals(Object obj) {
     return super.equals(obj);
