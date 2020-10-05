@@ -4,7 +4,7 @@ public class Squashing1 {
     String s = new String("hello world");
     System.out.println(s);
   }
-
+//comment
   @Override
   public boolean equals(Object obj) {
     return super.equals(obj);
