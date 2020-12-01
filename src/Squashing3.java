@@ -30,6 +30,8 @@ public class Squashing3 {
     System.out.println(s4);
     System.out.println(s5);
 
+    //change 1
+
 
   }
 
