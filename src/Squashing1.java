@@ -7,6 +7,8 @@ public class Squashing1 {
 //comment
   //comment
   //comment
+
+  //change 2
   @Override
   public boolean equals(Object obj) {
     return super.equals(obj);
