@@ -27,5 +27,6 @@ public class Example {
   @Override
   protected void finalize() throws Throwable {
     super.finalize();
+    //test
   }
 }
