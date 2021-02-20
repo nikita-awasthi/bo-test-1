@@ -14,4 +14,7 @@ public class Squashing1 {
   String s = new String("hello world");
     System.out.println(s);
 
+    //comment
+
+
 }
