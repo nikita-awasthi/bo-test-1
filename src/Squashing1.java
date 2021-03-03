@@ -5,6 +5,7 @@ public class Squashing1 {
     System.out.println(s);
     //adding a comment in squashing1.java
   }
+  //commit2
 
   @Override
   public boolean equals(Object obj) {
