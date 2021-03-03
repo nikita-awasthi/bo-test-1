@@ -12,7 +12,7 @@ public class Squashing2 {
     this.string1 = string1;
     this.string2 = string2;
   }
-//
+  //
   @Override
   public boolean equals(Object o) {
     if (this == o) {
@@ -20,20 +20,14 @@ public class Squashing2 {
     }
     if (o == null || getClass() != o.getClass()) {
       return false;
-      //commit3
     }
     Squashing2 that = (Squashing2) o;
     return Objects.equals(string1, that.string1) &&
         Objects.equals(string2, that.string2);
   }
-//comment
+  //comment
   @Override
   public int hashCode() {
     return Objects.hash(string1, string2);
   }
-  System.out.println("squash merge");
-    System.out.println("simple merge + deletion later");
-    System.out.println("squash merge + deletion together(sorry the last one was also squash merge, not simple merge) with TestBranch10");
-    System.out.println("double check to make sure squash merge + delete later will not give deleteSourceBranch");
-
 }
