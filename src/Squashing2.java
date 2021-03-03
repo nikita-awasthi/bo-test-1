@@ -20,6 +20,7 @@ public class Squashing2 {
     }
     if (o == null || getClass() != o.getClass()) {
       return false;
+      //commit3
     }
     Squashing2 that = (Squashing2) o;
     return Objects.equals(string1, that.string1) &&
