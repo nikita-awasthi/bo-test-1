@@ -14,6 +14,8 @@ public class Hello {
     System.out.println("squash merge + deletion together(sorry the last one was also squash merge, not simple merge) with TestBranch10");
     System.out.println("double check to make sure squash merge + delete later will not give deleteSourceBranch");
     //comment
+    System.out.println("just a commit");
+
 
 
 
