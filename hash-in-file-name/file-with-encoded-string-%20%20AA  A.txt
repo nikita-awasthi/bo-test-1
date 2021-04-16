@@ -1,0 +1,1 @@
+This file name has a string pattern which is itself encoded and also an explicit space which is equivalent of decoded pattern
